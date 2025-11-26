@@ -16,8 +16,14 @@ pip install pynput
 If the above command doesn't work try install in a virtual environment
 ```bash
 python3 -m venv venv
+```
+```bash
 source venv/bin/activate
+```
+```bash
 pip install pynput
+```
+```bash
 python3 Keylogger.py
 ```
 
